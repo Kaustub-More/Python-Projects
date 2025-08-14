@@ -27,5 +27,4 @@ Handling edge cases and input errors
 🚀 Future Scope
 Add a graphical user interface (GUI)
 Connect to a database for persistent storage
-
 Implement multi-user account support
